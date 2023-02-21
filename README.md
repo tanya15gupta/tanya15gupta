@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tanya15gupta&label=Profile%20views&color=0e75b6&style=flat" alt="tanya15gupta" /> </p>
 
-- 🔭 I’m currently working on [Revenant Radiance](https://github.com/tanya15gupta/Revenant-Radiance)
+- 🔭 I’m currently working on [Half Hunter](https://github.com/tanya15gupta/Half-hunter)
 
 - 💬 Ask me about **C++, C# and unity**
 
